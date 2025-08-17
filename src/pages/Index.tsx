@@ -257,14 +257,11 @@ export default function Index() {
               <CardContent className="p-6">
                 <div className="flex items-start justify-between">
                   <div className="flex-1">
-                    <h3 className="text-2xl font-semibold text-dramatic-gold mb-2">«Чайка»</h3>
-                    <p className="text-dramatic-gray mb-2">Роль Нины Заречной</p>
-                    <p className="text-dramatic-gray/70 mb-4">Музыкальный театр ИСИ</p>
+                    <h3 className="text-2xl font-semibold text-dramatic-gold mb-2">«Дом Бернарды Альбы»</h3>
+                    <p className="text-dramatic-gray mb-2">Роль Магдалены</p>
+                    <p className="text-dramatic-gray/70 mb-4">Арт-центр ИСИ</p>
                     <div className="flex items-center space-x-4 text-sm">
-                      <div className="flex items-center">
-                        <Icon name="Calendar" size={16} className="mr-2 text-dramatic-gold" />
-                        15-30 сентября
-                      </div>
+                      <div className="flex items-center">4 ноября </div>
                       <div className="flex items-center">
                         <Icon name="Clock" size={16} className="mr-2 text-dramatic-gold" />
                         19:00
