@@ -11,9 +11,7 @@ export default function Index() {
       <nav className="fixed top-0 w-full z-50 bg-dramatic-black/95 backdrop-blur-sm border-b border-dramatic-dark">
         <div className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
-            <h1 className="text-2xl font-bold text-dramatic-gold font-['Playfair_Display']">
-              Анна Селезнёва
-            </h1>
+            <h1 className="text-2xl font-bold text-dramatic-gold font-['Playfair_Display']">Элина Кондратьева</h1>
             <div className="flex items-center space-x-8">
               <a href="#biography" className="hover:text-dramatic-gold transition-colors">Биография</a>
               <a href="#portfolio" className="hover:text-dramatic-gold transition-colors">Портфолио</a>
