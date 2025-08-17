@@ -58,7 +58,7 @@ export default function Index() {
                 </div>
                 <div className="flex items-center space-x-2">
                   <Icon name="Users" className="text-dramatic-gold" size={20} />
-                  <span className="text-sm">Театр им. Вахтангова</span>
+                  <span className="text-sm">ИСИ, музыкальный театр</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Icon name="Film" className="text-dramatic-gold" size={20} />
@@ -96,13 +96,9 @@ export default function Index() {
                 </h3>
                 <div className="space-y-4">
                   <div className="border-l-2 border-dramatic-gold pl-4">
-                    <h4 className="font-semibold text-lg">ВГИК</h4>
-                    <p className="text-dramatic-gray/80">Актёрский факультет, 2018-2022</p>
-                    <p className="text-sm text-dramatic-gray/60">Красный диплом</p>
-                  </div>
-                  <div className="border-l-2 border-dramatic-gold pl-4">
-                    <h4 className="font-semibold text-lg">Школа-студия МХАТ</h4>
-                    <p className="text-dramatic-gray/80">Мастерская О. Табакова, 2016-2018</p>
+                    <h4 className="font-semibold text-lg">ИСИ</h4>
+                    <p className="text-dramatic-gray/80">Факультет музыкального театра, 2021-2025</p>
+                    <p className="text-sm text-dramatic-gray/60">Мастер: Егор Владиславович Дружинин</p>
                   </div>
                 </div>
               </div>
@@ -119,13 +115,11 @@ export default function Index() {
                   <Badge variant="outline" className="border-dramatic-gold text-dramatic-gold">Пластика</Badge>
                   <Badge variant="outline" className="border-dramatic-gold text-dramatic-gold">Вокал</Badge>
                   <Badge variant="outline" className="border-dramatic-gold text-dramatic-gold">Танцы</Badge>
-                  <Badge variant="outline" className="border-dramatic-gold text-dramatic-gold">Фехтование</Badge>
+                  <Badge variant="outline" className="border-dramatic-gold text-dramatic-gold">Скалолазание</Badge>
+                  <Badge variant="outline" className="border-dramatic-gold text-dramatic-gold">Игра на барабанах</Badge>
                 </div>
                 
-                <div className="pt-4">
-                  <h4 className="font-semibold text-lg mb-2">Языки:</h4>
-                  <p className="text-dramatic-gray/80">Русский (родной), Английский (свободно), Французский (базовый)</p>
-                </div>
+
               </div>
             </div>
             
@@ -133,8 +127,8 @@ export default function Index() {
             
             <div className="text-center">
               <p className="text-lg text-dramatic-gray/90 leading-relaxed max-w-3xl mx-auto">
-                Моя страсть к актёрскому мастерству началась в детстве. За годы обучения и практики 
-                я освоила различные техники и подходы, от классической школы до современных методик. 
+                С 2 месяцев я «жила» уже в театре, но никогда не мечтала стать актрисой. 
+                В итоге так не хотела, что потом 5 лет поступала в театральный. 
                 Каждая роль для меня — это возможность исследовать человеческую природу и донести 
                 до зрителя глубокие эмоции и смыслы.
               </p>
@@ -162,7 +156,7 @@ export default function Index() {
                 </div>
                 <div className="p-6">
                   <h3 className="text-xl font-semibold text-dramatic-gold mb-2">«Три сестры»</h3>
-                  <p className="text-dramatic-gray/80 mb-3">Роль Ирины, Театр им. Вахтангова</p>
+                  <p className="text-dramatic-gray/80 mb-3">Роль Ирины, музыкальный спектакль</p>
                   <div className="flex items-center text-sm text-dramatic-gray/60">
                     <Icon name="Calendar" size={16} className="mr-2" />
                     2023
@@ -265,7 +259,7 @@ export default function Index() {
                   <div className="flex-1">
                     <h3 className="text-2xl font-semibold text-dramatic-gold mb-2">«Чайка»</h3>
                     <p className="text-dramatic-gray mb-2">Роль Нины Заречной</p>
-                    <p className="text-dramatic-gray/70 mb-4">Театр им. Вахтангова</p>
+                    <p className="text-dramatic-gray/70 mb-4">Музыкальный театр ИСИ</p>
                     <div className="flex items-center space-x-4 text-sm">
                       <div className="flex items-center">
                         <Icon name="Calendar" size={16} className="mr-2 text-dramatic-gold" />
