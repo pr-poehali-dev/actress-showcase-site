@@ -24,13 +24,20 @@ export default {
 				ring: 'hsl(var(--ring))',
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',
+				dramatic: {
+					black: '#000000',
+					gold: '#DAA520',
+					accent: '#F5B041',
+					gray: '#F5F5F5',
+					dark: '#1A1A1A'
+				},
 				primary: {
-					DEFAULT: 'hsl(var(--primary))',
-					foreground: 'hsl(var(--primary-foreground))'
+					DEFAULT: '#DAA520',
+					foreground: '#000000'
 				},
 				secondary: {
-					DEFAULT: 'hsl(var(--secondary))',
-					foreground: 'hsl(var(--secondary-foreground))'
+					DEFAULT: '#1A1A1A',
+					foreground: '#F5F5F5'
 				},
 				destructive: {
 					DEFAULT: 'hsl(var(--destructive))',
